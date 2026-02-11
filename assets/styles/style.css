@@ -148,7 +148,7 @@ ul {
 }
 
 #about {
-	padding: 0 6rem;
+	padding: 8rem 6rem;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -212,7 +212,7 @@ ul {
 }
 
 #exercises {
-	padding: 9rem 6rem;
+	padding: 8rem 6rem;
 	background-color: #0b0f19;
 }
 
@@ -274,7 +274,7 @@ ul {
 }
 
 #benefits {
-	padding: 9rem 6rem;
+	padding: 8rem 6rem;
 }
 
 .benefit-container {

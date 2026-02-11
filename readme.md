@@ -5,4 +5,5 @@ Website ini merupakan submission kursus [Belajar Dasar Pemrograman Web](https://
 FITSTART adalah landing page yang dirancang untuk membantu pemula memulai perjalanan fitness mereka melalui program latihan dasar tanpa menggunakan alat
 
 ## Web Page
-<img width="2482" height="5704" alt="fitstartr netlify app_" src="https://github.com/user-attachments/assets/51f651b2-f543-4f43-b6dd-2eeff7860bf1" />
+
+<img width="2482" height="5704" alt="fitstartr netlify app_" src="./assets/images/web-page.png" />
